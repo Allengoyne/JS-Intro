@@ -1,6 +1,6 @@
 var givenName;
 // Q: What does `givenName` equal right now?
-// A FALSE
+// A: undefined
 
 
 givenName = "Tim";
